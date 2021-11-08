@@ -1,0 +1,38 @@
+
+.card{
+  display: inline-block;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4em 3em;
+  border: 1px solid black;
+
+}
+
+.mat-card {
+  max-width: 300px;
+}
+
+mat-card-actions{
+  display: inline-block;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+h4{
+  float: left;
+}
+
+button{
+  float: right;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}

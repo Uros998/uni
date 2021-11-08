@@ -1,0 +1,14 @@
+<div class="card" *ngFor="let hotel of hotelsList">
+  <mat-card>
+    <mat-card-title>Broj sobe: {{hotel.soba}}</mat-card-title>
+    <mat-card-subtitle>Sprat: {{hotel.sprat}}</mat-card-subtitle>
+    <mat-card-content>
+      <p>Opis sobe:</p>
+      <p>{{hotel.opis}}</p>
+    </mat-card-content>
+    <mat-card-actions>
+      <h4>Cena: {{hotel.cena}}</h4>
+      <button mat-button>Iznajmi</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
