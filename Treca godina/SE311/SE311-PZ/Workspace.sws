@@ -4,7 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{8801E77F-70C9-4DBF-B905-055623CAA316}" Name="SE311-PZ" Selected="Yes" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="SE311-PZ.prj"/>
+		<Model Expanded="Yes" ID="{8801E77F-70C9-4DBF-B905-055623CAA316}" Loaded="No" Name="SE311-PZ" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="SE311-PZ.prj"/>
+		<Model Expanded="Yes" ID="{C8DC0478-A4E1-4709-A2DB-9D8B0A88040F}" Name="UseCase" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../SE322/Domaci 6/UseCase.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
