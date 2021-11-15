@@ -1,0 +1,39 @@
+<div class="rooms-wrapper">
+  <div class="add-randomize-btn-group">
+    <button mat-fab class="add-fab" (click)="openAddRoomDialog()">
+      <mat-icon>add</mat-icon>
+    </button>
+    <button mat-raised-button (click)="shuffle()" class="randomize-btn">Izmešaj redosled</button>
+  </div>
+  <form class="search">
+    <mat-form-field>
+      <span matPrefix></span>
+      <input type="number" matInput placeholder="Pretraži po ceni" name="search" [(ngModel)]="search">
+      <button matSuffix mat-button>
+        <mat-icon>search</mat-icon>
+      </button>
+    </mat-form-field>
+    <br/>
+  </form>
+</div>
+
+<div class="card" *ngFor="let room of roomsList | search: search">
+  <mat-card>
+
+    <mat-card-title>Sprat: {{room.sprat}}</mat-card-title>
+    <mat-card-subtitle>Soba: {{room.soba}}</mat-card-subtitle>
+    <mat-card-content>
+      <h2>Opis:</h2>
+      <p class="description">{{room.opis}}</p>
+    </mat-card-content>
+    <mat-card-actions>
+      <h4>Cena po danu: {{room.cena}} RSD</h4>
+      <button mat-icon-button (click)="obrisiSobu(room.id)" class="delete-btn">
+        <mat-icon>delete</mat-icon>
+      </button>
+      <button mat-icon-button (click)="izmeniSobu(room)" class="edit-btn">
+        <mat-icon>edit</mat-icon>
+      </button>
+    </mat-card-actions>
+  </mat-card>
+</div>

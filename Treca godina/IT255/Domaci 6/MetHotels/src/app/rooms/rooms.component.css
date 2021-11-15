@@ -1,0 +1,67 @@
+.card {
+  display: inline-block;
+  margin: 1em 2em;
+  border: 1px solid black;
+  -webkit-box-shadow: 4px 2px 7px 0 rgba(0, 0, 0, 0.8);
+  box-shadow: 4px 2px 7px 0 rgba(0, 0, 0, 0.8);
+}
+
+mat-card {
+  width: 20em;
+}
+
+.rooms-wrapper {
+  width: 100vw;
+  height: 6em;
+  margin-bottom: 3em;
+}
+
+.search {
+  float: right;
+  margin-right: 2em;
+}
+
+.add-randomize-btn-group {
+  float: left;
+  margin-left: 2em;
+}
+
+.randomize-btn {
+  margin-top: 2.2em;
+  margin-left: 6.5em;
+  background-color: cornflowerblue;
+}
+
+.delete-btn{
+  color: #f63e3e;
+}
+
+.edit-btn{
+  color: #f1ad39;
+}
+
+.add-fab {
+  position: fixed;
+  z-index: 1;
+  background-color: cornflowerblue;
+}
+
+.mat-card {
+  max-width: 20em;
+}
+
+h4 {
+  margin-top: 1.8em;
+  float: left;
+}
+
+button {
+  margin-top: 1.5em;
+  float: right;
+}
+
+.edit-delete-btn-group>button {
+  margin-top: 0;
+}
+
+

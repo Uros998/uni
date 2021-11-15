@@ -1,0 +1,10 @@
+mat-form-field, mat-checkbox{
+  width: 15em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+button {
+  margin-left: 1em;
+  background-color: cornflowerblue;
+}
