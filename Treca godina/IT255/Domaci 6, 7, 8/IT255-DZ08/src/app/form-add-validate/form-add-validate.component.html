@@ -1,0 +1,36 @@
+<div class="mt-4">
+    <h3 class="text-center">Dodaj novi hotel:</h3>
+
+    <form [formGroup]="myForm" (ngSubmit)="onSubmit(myForm.value)" class="form"
+        [class.error]="!myForm.valid && myForm.touched">
+        <div class="form-group">
+            <label for="nameInput">Ime hotela:</label>
+            <input type="text" id="nameInput"  [formControl]="name" class="form-control" [class.is-invalid]="name.hasError('invalidName') && name.touched">
+            <div *ngIf="name.hasError('invalidName') && name.touched" class="form-text text-muted">Name must start with
+                first capital letter!</div>
+            <div *ngIf="name.hasError('required') && name.touched" class="form-text text-muted">This field is required!
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="priceInput">Cena hotela:</label>
+            <input type="number" id="priceInput"  [formControl]='price' class="form-control" [class.is-invalid]="price.hasError('required') && price.touched">
+            <div *ngIf="price.hasError('required') && price.touched" class="form-text text-muted">This field is
+                required!</div>
+        </div>
+
+        <div class="form-group">
+            <label >Ocena hotela:</label>
+            <input type="number" id="roomInput"  [formControl]='score' class="form-control" [class.is-invalid]="score.hasError('invalidScore') && score.touched">
+            <div *ngIf="score.hasError('invalidScore') && score.touched" class="form-text text-muted">Score must be
+                between 1 and 10!</div>
+            <div *ngIf="score.hasError('required') && score.touched" class="form-text text-muted">This field is
+                required!</div>
+        </div>
+        <div class="form-group">
+            <label for="descInput">Opis hotela: </label>
+            <textarea id="descInput" [formControl]='description' class="form-control"></textarea>
+        </div>
+        <button class="btn btn-large btn-primary">Dodaj hotel</button>
+
+    </form>
+</div>

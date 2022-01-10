@@ -1,0 +1,25 @@
+<h2 mat-dialog-title>Izmeni hotel</h2>
+<mat-dialog-content class="mat-typography" style="min-width: 500px;">
+    <form [formGroup]="myForm" (ngSubmit)="editRoom(myForm.value)">
+        <div class="form-group">
+          <label for="nameInput">Ime hotela:</label>
+          <input type="text" class="form-control" id="nameInput" placeholder="Enter room name" [formControl]="name" [class.is-invalid]="name.hasError('invalidName') && name.touched">
+        </div>
+        <div class="form-group">
+          <label for="priceInput">Cena:</label>
+          <input type="number" class="form-control" id="priceInput" placeholder="Enter room price" [formControl]="price"  [class.is-invalid]="price.hasError('required') && price.touched">
+        </div>
+        <div class="form-group">
+          <label for="scoreInput">Ocena:</label>
+          <input type="number" class="form-control" id="scoreInput" placeholder="Enter room score" [formControl]='score'  [class.is-invalid]="score.hasError('invalidScore') && score.touched">
+        </div>
+        <div class="form-group">
+          <label for="descriptionInput">Opis hotela:</label>
+          <textarea class="form-control" id="descriptionInput" rows="10" placeholder="Enter room description" [formControl]='description' ></textarea>
+        </div>
+      </form>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Nazad</button>
+  <button mat-button (click)="editRoom(myForm.value)">Izmeni</button>
+</mat-dialog-actions>

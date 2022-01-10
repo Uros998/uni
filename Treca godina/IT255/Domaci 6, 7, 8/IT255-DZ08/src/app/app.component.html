@@ -1,0 +1,17 @@
+<div class="container py-5">
+
+  <div class="offset-4 py-5">
+    <input [(ngModel)]="searchText" placeholder="Sortiraj po ceni" [ngModelOptions]="{standalone: true}">
+    <button class="button btn-success m-2 p-1" (click)="randomize()">Random prikaz hotela</button>
+  </div>
+
+  <div class="row">
+    <div class="col-3">
+      <app-form-add-validate (add)="addRoom($event)"></app-form-add-validate>
+    </div>
+    <div class="col-6">
+      <app-room *ngFor="let room of rooms | filterPipe : searchText; index as i;" [room]="room"
+                (delete)="onDelete($event)" (edit)="onEdit($event)"></app-room>
+    </div>
+  </div>
+</div>

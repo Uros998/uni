@@ -1,0 +1,17 @@
+<div class="room-card">
+    <div class="room-content">
+        <div class="room-desc">
+            <h2>{{room.name}}</h2>
+            <p>{{room.description}}</p>
+            <div>
+                <span>Score: {{room.score}} </span>
+                <span *ngIf="room.score >= 9" style="color: #2087ee; font-size: 1.5rem; margin-left: 10px;">Iznad proseka</span>
+            </div>
+            <h3>{{room.price}} EUR / Noc</h3>
+        </div>
+    </div>
+    <div class="room-btns col-5">
+        <button class="btn btn-large btn-danger" (click)="onDelete()">Obrisi</button>
+        <button class="btn btn-large btn-primary" (click)="onEdit()">Izmeni</button>
+    </div>
+</div>
