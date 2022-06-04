@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <Button
+        android:id="@+id/bChangeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prikaz fakulteta" />
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_above="@+id/bChangeText"
+        android:layout_width="match_parent"
+        android:layout_height="146dp"
+        android:text="Prikaz fakulteta" />
+
+    <Button
+        android:id="@+id/btn_showMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prikaži mapu"
+        android:onClick="onClickShowMap" />
+
+
+
+</LinearLayout>
