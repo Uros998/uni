@@ -21,21 +21,17 @@ void Gmizavci::insert_animal()
 
 	while (c == "y")
 	{
-		cout << "ID za: Gmizavci -  5 \n";
 
-		cout << "ID : "; cin >> id;
-
-		cout << "Ime : "; cin >> ime;
-
-		cout << "Naucno ime : "; cin >> naucno;
-
-		cout << "Tip: "; cin >> tip;
-
-		cout << "Porodica: "; cin >> porodica;
-
-		cout << "Koza je prekriveno: "; cin >> koza;
-
-		cout << "Otrovne da ili ne: "; cin >> otrovne;
+        cout << "___________________________________\n";
+        cout << "----- Unesite novog gmizavca -----\n";
+		cout << "ID                 :"; cin >> id;
+		cout << "Ime                :"; cin >> ime;
+		cout << "Naucno ime         :"; cin >> naucno;
+		cout << "Tip                :"; cin >> tip;
+		cout << "Porodica           :"; cin >> porodica;
+		cout << "Koza je prekriveno :"; cin >> koza;
+		cout << "Otrovne da ili ne  :"; cin >> otrovne;
+        cout << "___________________________________\n";
 
 
 		s.setId(id);
@@ -54,7 +50,7 @@ void Gmizavci::insert_animal()
 		cin >> c;
 	}
 
-	cout << "Izvrseno je!!!" << endl;
+	cout << "Uspesno ste dodali gmizavca!!!" << endl;
 
 
 	write.close();
@@ -148,21 +144,16 @@ void Gmizavci::update_animal()
 	stud.open("zivotinje.txt", ios::app);
 	temp.open("zivotinje.txt", ios::in);
 
-
-	cout << "ID : "; cin >> id;
-
-	cout << "Ime : "; cin >> ime;
-
-	cout << "Naucno ime : "; cin >> naucno;
-
-	cout << "Tip: "; cin >> tip;
-
-	cout << "Porodica: "; cin >> porodica;
-
-	cout << "Koza je prekriveno: "; cin >> koza;
-
-
-	cout << "Otrovne da ili ne: "; cin >> otrovne;
+    cout << "___________________________________\n";
+    cout << "----- Unesite nove podatke -----\n";
+	cout << "ID                 :"; cin >> id;
+	cout << "Ime                :"; cin >> ime;
+	cout << "Naucno ime         :"; cin >> naucno;
+	cout << "Tip                :"; cin >> tip;
+	cout << "Porodica           :"; cin >> porodica;
+	cout << "Koza je prekriveno :"; cin >> koza;
+	cout << "Otrovne da ili ne  :"; cin >> otrovne;
+    cout << "___________________________________\n";
 
 
 	s.setId(id);
@@ -185,7 +176,7 @@ void Gmizavci::update_animal()
 	stud.close();
 	temp.close();
 
-	cout << "\n Izvrseno !!! \n";
+	cout << "\n Uspesno ste izmenili gmizavca!!! \n";
 
 }
 

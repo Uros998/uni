@@ -153,12 +153,12 @@ void Ribe::update_animal()
 
     cout << "___________________________________\n";
     cout << "----- Unesite nove podatke -----\n";
-	cout << "ID                 : "; cin >> id;
-	cout << "Ime                : "; cin >> ime;
-	cout << "Naucno ime         : "; cin >> naucno;
-	cout << "Tip                : "; cin >> tip;
-	cout << "Porodica           : "; cin >> porodica;
-	cout << "Koza je prekriveno : "; cin >> koza;
+	cout << "ID                 :"; cin >> id;
+	cout << "Ime                :"; cin >> ime;
+	cout << "Naucno ime         :"; cin >> naucno;
+	cout << "Tip                :"; cin >> tip;
+	cout << "Porodica           :"; cin >> porodica;
+	cout << "Koza je prekriveno :"; cin >> koza;
     cout << "___________________________________\n";
 
 	s.setId(id);

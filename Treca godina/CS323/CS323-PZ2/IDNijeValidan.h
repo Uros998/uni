@@ -11,7 +11,7 @@ public:
 
 	const char * what() const throw ()
 	{
-		return "ID treba da bude od 1 do 5";
+		return "ID treba da bude od 1 do 10";
 	}
 
 
