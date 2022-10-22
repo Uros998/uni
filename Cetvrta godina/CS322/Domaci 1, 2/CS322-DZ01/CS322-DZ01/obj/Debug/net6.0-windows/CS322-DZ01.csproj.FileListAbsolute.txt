@@ -1,0 +1,17 @@
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.csproj.AssemblyReference.cache
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322_DZ01.Form1.resources
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.csproj.GenerateResource.cache
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.GeneratedMSBuildEditorConfig.editorconfig
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.AssemblyInfoInputs.cache
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.AssemblyInfo.cs
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.csproj.CoreCompileInputs.cache
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\bin\Debug\net6.0-windows\CS322-DZ01.exe
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\bin\Debug\net6.0-windows\CS322-DZ01.deps.json
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\bin\Debug\net6.0-windows\CS322-DZ01.runtimeconfig.json
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\bin\Debug\net6.0-windows\CS322-DZ01.dll
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\bin\Debug\net6.0-windows\CS322-DZ01.pdb
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.dll
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\refint\CS322-DZ01.dll
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.pdb
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\CS322-DZ01.genruntimeconfig.cache
+G:\uni\Cetvrta godina\CS322\Domaci 1\CS322-DZ01\CS322-DZ01\obj\Debug\net6.0-windows\ref\CS322-DZ01.dll
