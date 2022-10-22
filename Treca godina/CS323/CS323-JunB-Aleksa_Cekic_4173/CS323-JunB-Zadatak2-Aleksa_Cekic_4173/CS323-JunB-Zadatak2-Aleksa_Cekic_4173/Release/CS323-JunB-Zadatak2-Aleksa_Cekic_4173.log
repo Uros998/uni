@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\student\source\repos\CS323-JunB-Zadatak2-Aleksa_Cekic_4173\CS323-JunB-Zadatak2-Aleksa_Cekic_4173\Source.c(18,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  5 of 10 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS323-JunB-Zadatak2-Aleksa_Cekic_4173.vcxproj -> C:\Users\student\source\repos\CS323-JunB-Zadatak2-Aleksa_Cekic_4173\Release\CS323-JunB-Zadatak2-Aleksa_Cekic_4173.exe

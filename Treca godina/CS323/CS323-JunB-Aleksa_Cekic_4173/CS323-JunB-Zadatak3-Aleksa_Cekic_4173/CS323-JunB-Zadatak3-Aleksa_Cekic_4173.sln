@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS323-JunB-Zadatak3-Aleksa_Cekic_4173", "CS323-JunB-Zadatak3-Aleksa_Cekic_4173\CS323-JunB-Zadatak3-Aleksa_Cekic_4173.vcxproj", "{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Debug|x64.ActiveCfg = Debug|x64
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Debug|x64.Build.0 = Debug|x64
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Debug|x86.Build.0 = Debug|Win32
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Release|x64.ActiveCfg = Release|x64
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Release|x64.Build.0 = Release|x64
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Release|x86.ActiveCfg = Release|Win32
+		{0B393509-E4BC-47E1-AEA4-94D3BE9AFB14}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE3B18F-91D9-467E-87F9-7D4B64F9F96B}
+	EndGlobalSection
+EndGlobal

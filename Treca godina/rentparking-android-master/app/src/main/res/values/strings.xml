@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RentParking</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGF2aWRpdmFub3ZpYzIyIiwiYSI6ImNrcGZpZGNtbjI3dXUydm5seGh5ajV4aXYifQ.4Q1c-djtUvRf_Bwro4t6hg</string>
+    <string name="todo">TODO</string>
+    <string name="download_file">Download File</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="parkings">Parkings</string>
+    <string name="arrow">Arrow</string>
+    <string name="image">Image</string>
+    <string name="select">Select</string>
+    <string name="rent">Rent</string>
+    <string name="cancel">Cancel</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="rentparking">RentParking</string>
+    <string name="login">Login</string>
+    <string name="pay">Pay</string>
+</resources>

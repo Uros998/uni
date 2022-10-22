@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Pocetna" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profil" />
+        <item
+            android:id="@+id/nav_map"
+            android:title="Lokacija" />
+        <item
+            android:id="@+id/nav_lekovi"
+            android:title="Lekovi" />
+    </group>
+
+    <item android:title="Pomoc">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:title="Pomoc" />
+        </menu>
+    </item>
+
+    <item android:title="Odjava">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:title="Izloguj se" />
+        </menu>
+    </item>
+
+</menu>

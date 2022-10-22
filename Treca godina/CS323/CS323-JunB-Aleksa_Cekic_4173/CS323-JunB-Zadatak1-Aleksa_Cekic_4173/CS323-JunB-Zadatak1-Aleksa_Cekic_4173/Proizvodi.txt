@@ -1,0 +1,14 @@
+0 - Mobilni Uredjaj
+Mobilni telefon: ime5 sifra5 cena5 Samsung
+
+Mobilni telefon: ime2 sifra2 cena2 Samsung
+
+Mobilni telefon: ime1 sifra1 cena1 Samsung
+
+1 - Klima Uredjaji
+Klima uredjaj: ime4 sifra4 cena4 17820
+
+Klima uredjaj: ime3 sifra3 cena3 82340
+
+Klima uredjaj: ime1 sifra1 cena1 16234
+

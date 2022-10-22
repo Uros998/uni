@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CS330_PZ</string>
+    <string name="app_real_name">Moja apoteka</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Podesavanja</string>
+
+    <string name="hint_name">Ime</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Sifra</string>
+    <string name="hint_confirm_password">Unesite sifru ponovo</string>
+
+    <string name="text_login">Prijavi se</string>
+    <string name="text_register">Registruj se</string>
+
+    <string name="error_message_name">Puno ime</string>
+    <string name="error_message_email">Email adresa</string>
+    <string name="error_message_age">Godiste</string>
+    <string name="error_message_password">Sifra</string>
+
+    <string name="success_message">Uspesno ste se registrovali</string>
+    <string name="text_not_member">Registrujte se</string>
+    <string name="text_already_member">Ulogujte se</string>
+    <string name="error_password_match">Pogresna sifra</string>
+    <string name="error_valid_email_password">Pogresni detalji</string>
+    <string name="error_email_exists">Email vec postoji</string>
+
+    <string name="contact_call">Pozovite</string>
+    <string name="contact_email">Posaljite email</string>
+    <string name="contact_location">Google lokacija</string>
+    <string-array name="helper">
+        <item>Telefon</item>
+        <item>Mail</item>
+    </string-array>
+</resources>
