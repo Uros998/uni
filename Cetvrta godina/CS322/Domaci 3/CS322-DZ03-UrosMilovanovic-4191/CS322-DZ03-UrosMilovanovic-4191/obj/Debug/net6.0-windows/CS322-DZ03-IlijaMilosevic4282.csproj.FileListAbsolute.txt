@@ -1,0 +1,19 @@
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\bin\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.exe
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\bin\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.deps.json
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\bin\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.runtimeconfig.json
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\bin\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.dll
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\bin\Debug\net6.0-windows\ref\CS322-DZ03-IlijaMilosevic4282.dll
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\bin\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.pdb
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.csproj.AssemblyReference.cache
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322_DZ03_IlijaMilosevic4282.Form1.resources
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.csproj.GenerateResource.cache
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.AssemblyInfoInputs.cache
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.AssemblyInfo.cs
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.dll
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\ref\CS322-DZ03-IlijaMilosevic4282.dll
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.pdb
+C:\Users\Ilija\source\repos\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.genruntimeconfig.cache
+G:\uni\Cetvrta godina\CS322\Domaci 3\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.dll
+G:\uni\Cetvrta godina\CS322\Domaci 3\CS322-DZ03-IlijaMilosevic4282\CS322-DZ03-IlijaMilosevic4282\obj\Debug\net6.0-windows\CS322-DZ03-IlijaMilosevic4282.pdb
