@@ -1,0 +1,9 @@
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\obj\Debug\Zadatak_3.Form1.resources
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\obj\Debug\Zadatak_3.Properties.Resources.resources
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\obj\Debug\Zadatak-3.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\obj\Debug\Zadatak-3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\bin\Debug\Zadatak-3.exe.config
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\bin\Debug\Zadatak-3.exe
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\bin\Debug\Zadatak-3.pdb
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\obj\Debug\Zadatak-3.exe
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\Zadatak-3\obj\Debug\Zadatak-3.pdb

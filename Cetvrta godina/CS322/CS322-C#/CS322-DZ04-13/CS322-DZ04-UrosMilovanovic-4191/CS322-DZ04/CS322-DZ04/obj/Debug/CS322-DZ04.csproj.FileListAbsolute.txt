@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\bin\Debug\CS322-DZ04.exe.config
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\bin\Debug\CS322-DZ04.exe
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\bin\Debug\CS322-DZ04.pdb
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322-DZ04.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322_DZ04.Form1.resources
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322_DZ04.Properties.Resources.resources
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322-DZ04.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322-DZ04.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322-DZ04.exe
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ04-Stefan-Gogic-4056\CS322-DZ04\CS322-DZ04\obj\Debug\CS322-DZ04.pdb

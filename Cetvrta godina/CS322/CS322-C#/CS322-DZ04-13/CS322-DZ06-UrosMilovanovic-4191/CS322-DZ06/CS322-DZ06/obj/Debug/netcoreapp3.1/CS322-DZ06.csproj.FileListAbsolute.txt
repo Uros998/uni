@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\bin\Debug\netcoreapp3.1\CS322-DZ06.exe
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\bin\Debug\netcoreapp3.1\CS322-DZ06.deps.json
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\bin\Debug\netcoreapp3.1\CS322-DZ06.runtimeconfig.json
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\bin\Debug\netcoreapp3.1\CS322-DZ06.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\bin\Debug\netcoreapp3.1\CS322-DZ06.dll
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\bin\Debug\netcoreapp3.1\CS322-DZ06.pdb
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.dll
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.pdb
+C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-DZ06-Stefan-Gogic-4056\CS322-DZ06\CS322-DZ06\obj\Debug\netcoreapp3.1\CS322-DZ06.genruntimeconfig.cache
