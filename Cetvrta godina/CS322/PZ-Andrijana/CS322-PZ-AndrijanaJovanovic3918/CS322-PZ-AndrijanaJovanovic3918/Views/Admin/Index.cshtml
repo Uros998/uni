@@ -1,0 +1,71 @@
+﻿@model PiesListViewModel
+
+@*@if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["Error"]
+        </div>
+    }
+
+
+    @if (TempData["Succes"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Success"]
+        </div>
+
+    }*@
+
+
+<h2>Pies</h2>
+<br>
+<a asp-controller="Admin" asp-action="Upsert" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Create</a>
+<br>
+<br>
+<br>
+
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>ID pie</th>
+            <th>Name</th>
+            <th>Short Description</th>
+            <th>Allergy Information</th>
+            <th>Price</th>
+            <th>Image Url</th>
+            <th>Image Thumbnail Url</th>
+            <th>Is Pie Of The Week</th>
+            <th>In Stock</th>
+            <th>Category</th>
+            <th>Delete</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pie in Model.Pies)
+        {
+            <tr>
+                <td class="text-left">@pie.PieId</td>
+                <td class="text-left">@pie.Name</td>
+                <td class="text-left">@pie.ShortDescription</td>
+                <td class="text-left">@pie.AllergyInformation</td>
+                <td class="text-left">@pie.Price</td>
+                <td class="text-left">@pie.ImageUrl</td>
+                <td class="text-left">@pie.ImageThumbnailUrl</td>
+                <td class="text-left">@pie.IsPieOfTheWeek</td>
+                <td class="text-left">@pie.InStock</td>
+                <td class="text-left">@pie.Category.CategoryName</td>
+                <td>
+                    <a asp-controller="Admin" asp-action="Delete" asp-route-pieId=@pie.PieId class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Delete</a>
+                </td>
+
+                <td>
+                    <a asp-controller="Admin" asp-action="Upsert" asp-route-pieId=@pie.PieId class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

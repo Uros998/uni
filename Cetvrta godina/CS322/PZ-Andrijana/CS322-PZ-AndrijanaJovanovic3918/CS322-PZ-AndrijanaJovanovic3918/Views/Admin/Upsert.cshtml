@@ -1,0 +1,106 @@
+﻿@model Pie
+
+<h2 class="text-info">@(Model.PieId !=0 ? "Edit" : "Create") Pie</h2>
+
+<form method="post" class="form-horizontal" role="form">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    @if (Model.PieId != 0)
+    {
+        <input type="hidden" asp-for="PieId" />
+    }
+
+    <div class="form-group">
+        <label asp-for="Name" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ShortDescription" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="ShortDescription" class="form-control" />
+            <span asp-validation-for="ShortDescription" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LongDescription" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="LongDescription" class="form-control" />
+            <span asp-validation-for="LongDescription" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AllergyInformation" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="AllergyInformation" class="form-control" />
+            <span asp-validation-for="AllergyInformation" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageUrl" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="ImageUrl" class="form-control" />
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageThumbnailUrl" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="ImageThumbnailUrl" class="form-control" />
+            <span asp-validation-for="ImageThumbnailUrl" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IsPieOfTheWeek" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="IsPieOfTheWeek" class="form-control" />
+            <span asp-validation-for="IsPieOfTheWeek" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="InStock" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="InStock" class="form-control" />
+            <span asp-validation-for="InStock" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryId" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="CategoryId" class="form-control" />
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <button type="submit" class="btn btn-primary form-control">
+                @(Model.PieId !=0 ? "Update" : "Create")
+            </button><br><br><br>
+            <div class="col-3">
+                <a asp-action="Index" class="btn btn-success form-control">Cancle</a>
+            </div>
+        </div>
+    </div>
+
+</form>
+
