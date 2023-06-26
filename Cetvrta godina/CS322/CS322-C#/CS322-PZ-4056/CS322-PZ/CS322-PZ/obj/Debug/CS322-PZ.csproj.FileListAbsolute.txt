@@ -35,3 +35,41 @@ C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322
 C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Doktor.resources
 C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Login.resources
 C:\Users\Stefan\Desktop\git-uni\university\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Pacijent.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\CS322-PZ.exe.config
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\CS322-PZ.exe
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\CS322-PZ.pdb
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\BouncyCastle.Crypto.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\Google.Protobuf.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\K4os.Compression.LZ4.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\K4os.Hash.xxHash.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\MySql.Data.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Buffers.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Memory.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Numerics.Vectors.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\ZstdNet.dll
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\BouncyCastle.Crypto.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\Google.Protobuf.pdb
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\Google.Protobuf.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\K4os.Compression.LZ4.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\K4os.Hash.xxHash.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\MySql.Data.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Buffers.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Memory.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Numerics.Vectors.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.AssemblyReference.cache
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.SuggestedBindingRedirects.cache
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Doktor.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Login.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Pacijent.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Posetioc.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.Properties.Resources.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322_PZ.ZakaziPosetu.resources
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.GenerateResource.cache
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.CoreCompileInputs.cache
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.csproj.CopyComplete
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.exe
+G:\uni\Cetvrta godina\CS322\CS322-C#\CS322-PZ-4056\CS322-PZ\CS322-PZ\obj\Debug\CS322-PZ.pdb

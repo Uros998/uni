@@ -1,0 +1,17 @@
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\bin\Debug\net6.0-windows\Zadatak3.exe
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\bin\Debug\net6.0-windows\Zadatak3.deps.json
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\bin\Debug\net6.0-windows\Zadatak3.runtimeconfig.json
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\bin\Debug\net6.0-windows\Zadatak3.dll
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\bin\Debug\net6.0-windows\Zadatak3.pdb
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.Form1.resources
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.dll
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\refint\Zadatak3.dll
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.pdb
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\Zadatak3.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\CS322-JanA-StefanGogic4056\Zadatak3\Zadatak3\obj\Debug\net6.0-windows\ref\Zadatak3.dll
